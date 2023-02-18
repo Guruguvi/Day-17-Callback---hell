@@ -1,0 +1,13 @@
+body{
+    margin: 20%;
+    padding:10px;
+    background-color: darkgray;
+  }
+  #test{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 50px;
+  }
